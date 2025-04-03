@@ -2,8 +2,7 @@
 
 ###
 
-<p align="left">👋 Hi, I'm Mateusz - Java Developer with one year of commercial experience.<br><br>Proficient in remote collaboration with English and German speakers, showcasing a strong enthusiasm for acquiring new technological skills.<br><br>Currently working as a Cloud Services Engineer, primarily focused on Azure App Services.<br><br>Dedicated to expanding knowledge in the fields of Spring Boot and Microsoft Azure. Currently preparing for the Java Oracle and Microsoft Azure exams. 🔭<br><br>How to reach me:<br><br>mateusz.wajnberger@gmail.com 📫<br><br>https://mateusz-wajnberger.profesjonalnyprogramista.pl</p>
-
+<p align="left">👋 Hi, I'm Mateusz - Java Developer with one year of commercial experience.<br><br>Proficient in remote collaboration with English and German speakers, showcasing a strong enthusiasm for acquiring new technological skills.<br><br>Currently working as a Cloud Services Engineer, primarily focused on Azure App Services.<br><br>Dedicated to expanding knowledge in the fields of Spring Boot and Microsoft Azure. Currently preparing for the Java Oracle and Microsoft Azure exams. 
 ###
 
 <h2 align="left">Technologies</h2>
